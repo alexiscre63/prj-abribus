@@ -4,5 +4,15 @@ body{
     color: black;
     font-family: 'Open Sans', serif;
     font-size: 22px;
+    display: block;
+    margin-bottom: none;
 }
-
+.degradé{
+    background: #98E68A;
+    background: linear-gradient(180deg, rgba(152, 230, 138, 1) 0%, rgba(0, 0, 0, 1) 99%, rgba(0, 0, 0, 1) 100%);
+    color: black;
+    font-family: 'Open Sans', serif;
+    font-size: 22px;
+    display: block;
+    margin-bottom: none;
+}
